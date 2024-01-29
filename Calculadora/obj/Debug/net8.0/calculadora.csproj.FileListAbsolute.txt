@@ -12,3 +12,4 @@ D:\dio\ModuloTestesDio\calculadora\obj\Debug\net8.0\refint\calculadora.dll
 D:\dio\ModuloTestesDio\calculadora\obj\Debug\net8.0\calculadora.pdb
 D:\dio\ModuloTestesDio\calculadora\obj\Debug\net8.0\calculadora.genruntimeconfig.cache
 D:\dio\ModuloTestesDio\calculadora\obj\Debug\net8.0\ref\calculadora.dll
+D:\dio\ModuloTestesDio\Calculadora\obj\Debug\net8.0\calculadora.sourcelink.json
